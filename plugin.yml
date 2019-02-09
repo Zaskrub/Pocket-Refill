@@ -15,5 +15,4 @@ commands:
  wallet:
   description: เเจ้งโอนวอเล็ท พิม /wallet [เลขอ้างอิง]
  truemoney:
-  description: เติมเงินด้วยบัตร พิม /truemoney [เลขบัตรทรู]
-           
+  description: เติมเงินด้วยบัตร พิม /truemoney [เลขบัตรทjs
