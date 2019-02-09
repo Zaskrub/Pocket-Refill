@@ -1,0 +1,8 @@
+CREATE TABLE `pocketrefill` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`ref`	TEXT
+);
+CREATE TABLE `pocketrefills` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`ref`	TEXT
+);
